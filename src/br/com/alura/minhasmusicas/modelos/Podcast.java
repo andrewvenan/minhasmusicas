@@ -1,4 +1,4 @@
-package br.com.akura.minhasmusicas.modelos;
+package br.com.alura.minhasmusicas.modelos;
 
 public class Podcast extends  Audio{
     private  String apresentador;

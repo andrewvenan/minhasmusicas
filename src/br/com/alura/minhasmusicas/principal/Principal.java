@@ -1,8 +1,8 @@
-package br.com.akura.minhasmusicas.principal;
+package br.com.alura.minhasmusicas.principal;
 
-import br.com.akura.minhasmusicas.modelos.MinhasPreferidas;
-import br.com.akura.minhasmusicas.modelos.Musica;
-import br.com.akura.minhasmusicas.modelos.Podcast;
+import br.com.alura.minhasmusicas.modelos.MinhasPreferidas;
+import br.com.alura.minhasmusicas.modelos.Musica;
+import br.com.alura.minhasmusicas.modelos.Podcast;
 
 public class Principal {
     public static void main(String[] args) {
